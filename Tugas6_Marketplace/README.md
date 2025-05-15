@@ -25,3 +25,4 @@ Menambahkan fitur statistik jumlah produk per kategori menggunakan `Map<String, 
 1. Compile semua file:
    ```bash
    javac *.java
+   java Marketplace
