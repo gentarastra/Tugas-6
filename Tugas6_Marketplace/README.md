@@ -21,8 +21,7 @@ Program Java ini adalah simulasi sederhana Marketplace menggunakan konsep:
 ## ⭐ Fitur Tambahan
 Menambahkan fitur statistik jumlah produk per kategori menggunakan `Map<String, Integer>`.
 
-## Cara Menjalankan
+## ▶️ Cara Menjalankan
 1. Compile semua file:
+   ```bash
    javac *.java
-2. Jalankan:
-   java Marketplace
