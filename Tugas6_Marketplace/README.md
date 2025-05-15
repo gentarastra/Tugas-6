@@ -18,7 +18,7 @@ Program Java ini adalah simulasi sederhana Marketplace menggunakan konsep:
 - Menambahkan produk ke antrian proses
 - Menampilkan produk yang telah diproses
 
-## ⭐ Fitur Tambahan (+2 Poin)
+## ⭐ Fitur Tambahan
 Menambahkan fitur statistik jumlah produk per kategori menggunakan `Map<String, Integer>`.
 
 ## Cara Menjalankan
